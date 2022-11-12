@@ -19,7 +19,7 @@ For this task, it constructed a neural network classifier using Transformers to 
 For this task, it constructed a neural network classifier using Transformers to classify the emotion analysis from [the Tweet Eval dataset](https://huggingface.co/datasets/tweet_eval) [1] into one of 0: anger, 1: joy, 2: optimism, or 3: sadness.  The pretrained BERT model was performed to achieve this task.
 
 ### Objective
-Used BRERT model from Transformers to classify the emotion analysis dataset
+Used BERT model from Transformers to classify the emotion analysis dataset
 
 ---
 
